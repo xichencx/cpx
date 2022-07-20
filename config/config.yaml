@@ -1,0 +1,14 @@
+nacos:
+host: "81.68.251.252"
+localhost: "81.68.251.252"
+port: 8848
+
+user: "ethan"
+password: "chenXI951026."
+
+nameSpaceId: "e6a595b7-bf50-4811-908e-197cb78bb959"
+dataId: "cpg-blog-01"
+group: "cpg-blog"
+timeout: 5000
+logDir: "/tmp/nacos/log"
+cacheDir: "/tmp/nacos/cache"
